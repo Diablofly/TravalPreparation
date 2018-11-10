@@ -2,3 +2,6 @@ ID Cards
 Cups
 Bags
 GPS
+Tents
+Sleeping Bags
+Driving Licence
