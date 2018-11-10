@@ -5,3 +5,5 @@ GPS
 Tents
 Sleeping Bags
 Driving Licence
+Life Jacket
+Goggles
