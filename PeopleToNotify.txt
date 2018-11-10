@@ -1,6 +1,7 @@
 Tom
 Jerry
 Elle
-Jack
 Adam
 John
+Nicolas
+Bruce
